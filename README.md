@@ -18,12 +18,12 @@ The API is public and returns data in JSON format.
 
 ### Get all words
 
-`GET https://api.badwords-db.com/v1/all`
+`GET https://api.badword-db.com/v1/all`
 
 ### Filter by Language & Category
 
 You can refine your request using query parameters:
-`GET https://api.badwords-db.com/v1/get?lang=de&cat=insult`
+`GET https://api.badword-db.com/v1/get?lang=de&cat=insult`
 
 **Parameters:**
 
