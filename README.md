@@ -1,4 +1,4 @@
-# badwords-db
+# badword-db
 **A powerful, open-source database and API to filter insults, slurs, and profanity from your projects.**
 
 This project provides a curated blacklist of "bad words" in multiple languages to help developers keep their communities and platforms safe and respectful.
